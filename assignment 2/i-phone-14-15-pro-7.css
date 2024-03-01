@@ -1,0 +1,172 @@
+.battery-level-icon6,
+.wi-fi-icon6 {
+  position: absolute;
+  top: 19px;
+  left: 290px;
+  width: 32px;
+  height: 42px;
+  object-fit: cover;
+}
+.battery-level-icon6 {
+  top: 17px;
+  left: 324px;
+  width: 69px;
+  height: 50px;
+}
+.div8,
+.songs {
+  position: absolute;
+  display: inline-block;
+}
+.div8 {
+  top: 23px;
+  left: 28px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  width: 96px;
+  height: 29px;
+}
+.songs {
+  top: 92px;
+  left: 82px;
+  font-size: 40px;
+  width: 224px;
+  height: 55px;
+}
+.iphone-14-15-pro-7-child,
+.iphone-14-15-pro-7-inner,
+.iphone-14-15-pro-7-item,
+.rectangle-div {
+  position: absolute;
+  top: 165px;
+  left: 23px;
+  background-color: var(--color-darkslategray);
+  width: 348px;
+  height: 116px;
+}
+.iphone-14-15-pro-7-inner,
+.iphone-14-15-pro-7-item,
+.rectangle-div {
+  top: 321px;
+}
+.iphone-14-15-pro-7-inner,
+.rectangle-div {
+  top: 473px;
+}
+.rectangle-div {
+  top: 624px;
+  left: 22px;
+}
+.f8-1-icon,
+.f9-1-icon,
+.figma3-2-icon,
+.figma6-2-icon {
+  position: absolute;
+  top: 165px;
+  left: 30px;
+  border-radius: var(--br-31xl);
+  width: 121px;
+  height: 116px;
+  object-fit: cover;
+}
+.f9-1-icon,
+.figma3-2-icon,
+.figma6-2-icon {
+  top: 321px;
+  width: 129px;
+}
+.figma3-2-icon,
+.figma6-2-icon {
+  top: 593px;
+  left: 38px;
+  width: 106px;
+}
+.figma6-2-icon {
+  top: 624px;
+  width: 113px;
+}
+.awake,
+.let-me,
+.pray-for-me,
+.views {
+  position: absolute;
+  top: 177px;
+  left: 159px;
+  display: inline-block;
+  width: 109px;
+  height: 35px;
+}
+.let-me,
+.pray-for-me,
+.views {
+  top: 324px;
+  left: 164px;
+  width: 104px;
+}
+.let-me,
+.pray-for-me {
+  top: 473px;
+  left: 147px;
+  width: 128px;
+}
+.pray-for-me {
+  top: 634px;
+  left: 157px;
+  width: 161px;
+  height: 41px;
+}
+.favorite-icon3 {
+  position: absolute;
+  top: 625px;
+  left: 322px;
+  width: 37px;
+  height: 59px;
+  object-fit: cover;
+}
+.favorite-icon4,
+.favorite-icon5,
+.favorite-icon6 {
+  position: absolute;
+  top: 474px;
+  left: 318px;
+  width: 38px;
+  height: 59px;
+  object-fit: cover;
+}
+.favorite-icon5,
+.favorite-icon6 {
+  top: 316px;
+  width: 37px;
+}
+.favorite-icon6 {
+  top: 166px;
+}
+.adjust-icon4,
+.chevron-down-icon4 {
+  position: absolute;
+  width: 54px;
+  object-fit: cover;
+}
+.adjust-icon4 {
+  top: 92px;
+  left: 316px;
+  height: 62px;
+  cursor: pointer;
+}
+.chevron-down-icon4 {
+  top: 87px;
+  left: 23px;
+  height: 71px;
+}
+.iphone-14-15-pro-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-cornflowerblue);
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

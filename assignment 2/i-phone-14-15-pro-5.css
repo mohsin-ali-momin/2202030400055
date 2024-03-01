@@ -1,0 +1,141 @@
+.div5 {
+  position: absolute;
+  top: 23px;
+  left: 28px;
+  display: inline-block;
+  width: 96px;
+  height: 29px;
+}
+.wi-fi-icon4 {
+  position: absolute;
+  top: 17px;
+  left: 288px;
+  width: 32px;
+  height: 42px;
+  object-fit: cover;
+}
+.adjust-icon2,
+.battery-level-icon4,
+.chevron-down-icon2 {
+  position: absolute;
+  top: 17px;
+  left: 326px;
+  width: 69px;
+  height: 50px;
+  object-fit: cover;
+}
+.adjust-icon2,
+.chevron-down-icon2 {
+  top: 83px;
+  left: 1px;
+  width: 54px;
+  height: 71px;
+}
+.adjust-icon2 {
+  top: 92px;
+  left: 332px;
+  height: 62px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-5-child {
+  position: absolute;
+  top: 713px;
+  left: 63px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-cornflowerblue);
+  width: 269px;
+  height: 81px;
+}
+.previous-icon4,
+.share-icon2 {
+  position: absolute;
+  top: 582px;
+  left: 300px;
+  width: 67px;
+  height: 80px;
+  object-fit: cover;
+}
+.previous-icon4 {
+  top: 709px;
+  left: 264px;
+  width: 61.6px;
+  height: 83.4px;
+  object-fit: contain;
+}
+.play-icon2,
+.previous-icon5 {
+  position: absolute;
+  top: 713px;
+  left: 175px;
+  width: 61px;
+  height: 81px;
+  object-fit: cover;
+}
+.previous-icon5 {
+  top: 709px;
+  left: 77px;
+  width: 62px;
+  height: 90px;
+}
+.iphone-14-15-pro-5-item {
+  position: absolute;
+  top: 685.5px;
+  left: 30px;
+  max-height: 100%;
+  width: 162px;
+}
+.iphone-14-15-pro-5-inner {
+  position: absolute;
+  top: 686px;
+  left: 192px;
+  width: 160px;
+  height: 0;
+  object-fit: contain;
+}
+.figma5-1-icon,
+.rgb-color-wheel2 {
+  position: absolute;
+  object-fit: cover;
+}
+.figma5-1-icon {
+  top: 95px;
+  left: 55px;
+  border-radius: 0 0 var(--br-91xl) var(--br-91xl);
+  width: 254px;
+  height: 490px;
+}
+.rgb-color-wheel2 {
+  top: 523px;
+  left: 11px;
+  width: 64px;
+  height: 64px;
+}
+.love-more {
+  position: absolute;
+  top: 604px;
+  left: 94px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-mediumpurple);
+  display: inline-block;
+  width: 195px;
+  height: 63px;
+}
+.favorite-icon2 {
+  position: absolute;
+  top: 593px;
+  left: 10px;
+  width: 65px;
+  height: 83px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-cornflowerblue);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

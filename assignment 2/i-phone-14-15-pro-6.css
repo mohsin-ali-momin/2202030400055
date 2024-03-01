@@ -1,0 +1,123 @@
+.div6 {
+  position: absolute;
+  top: 23px;
+  left: 28px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 96px;
+  height: 29px;
+}
+.battery-level-icon5,
+.wi-fi-icon5 {
+  position: absolute;
+  top: 17px;
+  left: 288px;
+  width: 32px;
+  height: 42px;
+  object-fit: cover;
+}
+.battery-level-icon5 {
+  left: 326px;
+  width: 69px;
+  height: 50px;
+}
+.adjust-icon3,
+.chevron-down-icon3,
+.figma7-1-icon {
+  position: absolute;
+  top: 92px;
+  left: 332px;
+  width: 54px;
+  height: 62px;
+  object-fit: cover;
+}
+.chevron-down-icon3,
+.figma7-1-icon {
+  left: 1px;
+  width: 395px;
+  height: 517px;
+}
+.chevron-down-icon3 {
+  top: 83px;
+  width: 54px;
+  height: 71px;
+}
+.figma6-1-icon,
+.iphone-14-15-pro-6-child {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  height: 132px;
+}
+.iphone-14-15-pro-6-child {
+  background-color: #2af8f8;
+  width: 392px;
+}
+.figma6-1-icon {
+  width: 140px;
+  object-fit: cover;
+}
+.birdy,
+.div7,
+.longless {
+  position: absolute;
+  font-weight: 800;
+  display: inline-block;
+}
+.birdy {
+  top: 604px;
+  left: 127px;
+  font-size: 50px;
+  color: var(--color-royalblue);
+  width: 137px;
+  height: 52px;
+}
+.div7,
+.longless {
+  top: 671px;
+  left: 158px;
+  color: var(--color-mediumpurple);
+  width: 222px;
+  height: 47px;
+}
+.div7 {
+  top: 733px;
+  left: 165px;
+  color: var(--color-cornflowerblue);
+  width: 177px;
+  height: 39px;
+}
+.iphone-14-15-pro-6-item {
+  left: 216px;
+  background-color: #c95a5a;
+  width: 170px;
+}
+.follow,
+.iphone-14-15-pro-6-item,
+.plus-icon {
+  position: absolute;
+  top: 565px;
+  height: 39px;
+}
+.follow {
+  left: 264px;
+  font-weight: 800;
+  display: inline-block;
+  width: 113px;
+}
+.plus-icon {
+  left: 216px;
+  width: 44px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-cornflowerblue);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

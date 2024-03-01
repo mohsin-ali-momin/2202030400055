@@ -1,0 +1,219 @@
+.iphone-14-15-pro-1-child,
+.iphone-14-15-pro-1-item {
+  position: absolute;
+  background-color: var(--color-royalblue);
+}
+.iphone-14-15-pro-1-child {
+  top: calc(50% - 407px);
+  left: calc(50% - 196.2px);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 242px;
+  height: 279px;
+  transform: rotate(58.28deg);
+  transform-origin: 0 0;
+}
+.iphone-14-15-pro-1-item {
+  top: 649px;
+  left: 87px;
+  border-radius: var(--br-31xl);
+  width: 225px;
+  height: 57px;
+}
+.login {
+  position: absolute;
+  top: 649px;
+  left: 136px;
+  font-size: var(--font-size-27xl);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 128px;
+  height: 55px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-1-inner {
+  position: absolute;
+  top: 740px;
+  left: 83px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-royalblue);
+  width: 225px;
+  height: 57px;
+  cursor: pointer;
+}
+.line-icon {
+  position: absolute;
+  top: calc(50% - 96px);
+  left: 268px;
+  width: 80px;
+  height: 0;
+  object-fit: contain;
+}
+.sign-up {
+  position: absolute;
+  top: 740px;
+  left: 112px;
+  font-size: var(--font-size-27xl);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 185px;
+  height: 55px;
+}
+.iphone-14-15-pro-1-child1 {
+  position: absolute;
+  top: 328px;
+  left: 45px;
+  max-height: 100%;
+  width: 91px;
+}
+.iphone-14-15-pro-1-child2,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div {
+  top: 326.5px;
+  left: 45.5px;
+  border-right: 1px solid var(--color-royalblue);
+  width: 1px;
+  height: 284px;
+}
+.iphone-14-15-pro-1-child2 {
+  top: 609.5px;
+  left: 44.5px;
+  border-top: 1px solid var(--color-royalblue);
+  width: 303px;
+  height: 1px;
+}
+.iphone-14-15-pro-1-child3 {
+  position: absolute;
+  top: 329.5px;
+  left: 347px;
+  border-right: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1px;
+  height: 281px;
+}
+.login1 {
+  position: absolute;
+  top: 296px;
+  left: 116px;
+  font-size: var(--font-size-27xl);
+  display: inline-block;
+  width: 174px;
+  height: 69px;
+}
+.iphone-14-15-pro-1-child4,
+.iphone-14-15-pro-1-child5 {
+  position: absolute;
+  top: 459px;
+  left: 77.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 243px;
+  height: 1px;
+}
+.iphone-14-15-pro-1-child5 {
+  top: 539px;
+}
+.password,
+.username {
+  position: absolute;
+  top: 431px;
+  left: 105px;
+  font-weight: 100;
+  display: inline-block;
+  width: 103px;
+  height: 23px;
+}
+.password {
+  top: 515px;
+  left: 104px;
+  width: 105px;
+  height: 22px;
+}
+.lock-icon,
+.male-user-icon {
+  position: absolute;
+  top: 399px;
+  left: 264px;
+  width: 55px;
+  height: 60px;
+  object-fit: cover;
+}
+.lock-icon {
+  top: 477px;
+  left: 265px;
+  width: 56px;
+  height: 61px;
+}
+.arrow-icon,
+.arrow-icon1 {
+  position: absolute;
+  top: 508px;
+  left: 69px;
+  width: 23.3px;
+  height: 29.2px;
+  object-fit: contain;
+}
+.arrow-icon1 {
+  top: 425.9px;
+  left: 68.9px;
+}
+.forgot-password {
+  font-weight: 600;
+}
+.span {
+  font-weight: 100;
+  color: var(--color-black);
+}
+.span2 {
+  white-space: pre-wrap;
+}
+.div,
+.forgot-password-container {
+  position: absolute;
+  display: inline-block;
+}
+.forgot-password-container {
+  top: 575px;
+  left: 66px;
+  width: 178px;
+  height: 23px;
+  color: var(--color-royalblue);
+}
+.div {
+  top: 23px;
+  left: 28px;
+  text-align: left;
+  width: 96px;
+  height: 29px;
+}
+.battery-level-icon,
+.wi-fi-icon {
+  position: absolute;
+  top: 17px;
+  left: 324px;
+  width: 69px;
+  height: 50px;
+  object-fit: cover;
+}
+.wi-fi-icon {
+  top: 19px;
+  left: 290px;
+  width: 32px;
+  height: 42px;
+}
+.iphone-14-15-pro-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
